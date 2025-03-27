@@ -1,1 +1,3 @@
-
+toto je první verze počtů
+má základní a omezené funkce a nějaké chyby
+je to však funnkční základ
