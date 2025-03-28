@@ -1,1 +1,2 @@
-Počty o vás nezbírají žádné data, to je základ.
+Počty je program na procvičení násobilky,
+je ve verzi 1.0
